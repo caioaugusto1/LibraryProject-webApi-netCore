@@ -7,4 +7,4 @@ Dependencies useed
 - Microsoft.AspNetCore.Razor.Design (Version 2.1.2);
 - Microsoft.VisualStudio.Web.CodeGeneration.Design (Version 2.1.1)
 
-Simple Project - useed only a class (Book) to Nothing complex.
+- Encapsulament Concept, Heritage, Abstraction 
