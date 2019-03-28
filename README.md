@@ -19,7 +19,7 @@ Library Project - Web Api with MongoDB (Net Core 2.1)
 
 Requires [Visual Studio - 2017](https://visualstudio.microsoft.com/downloads/) - NET Core 2.1+ to run.
 
-Requires [MongoDB](https://www.mongodb.com/download-center) installed in port 27017 or case your need change in appsetting.json of project
+Requires [MongoDB](https://www.mongodb.com/download-center) installed in port :27017 or case your need change in appsetting.json of project
 
 License
 ----
