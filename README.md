@@ -17,9 +17,14 @@ Library Project - Web Api with MongoDB (Net Core 2.1)
 
 ### Installation
 
-Dillinger requires [Visual Studio - 2017](https://visualstudio.microsoft.com/downloads/) NET Core 2.1+ to run.
+Requires [Visual Studio - 2017](https://visualstudio.microsoft.com/downloads/) - NET Core 2.1+ to run.
 
-Dillinger requires [MongoDB](https://www.mongodb.com/download-center)
+Requires [MongoDB](https://www.mongodb.com/download-center) installed in port 27017 or case your need change in appsetting.json of project
+
+License
+----
+
 
 **Free Software, Hell Yeah!**
 
+*Caio Augusto*
