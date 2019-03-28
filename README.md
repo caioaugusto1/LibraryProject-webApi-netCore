@@ -1,7 +1,7 @@
-# LibraryProject-webApi-netCore
-Library Project - WebApi with MongoDB (Net Core 2.1)
+# Library Project
+Library Project - Web Api with MongoDB (Net Core 2.1)
 
-Library's useed 
+Dependencies useed 
 - MongoDB.Driver (Version 2.8.0);
 - Microsoft.AspNetCore.App (Version 2.1.1);
 - Microsoft.AspNetCore.Razor.Design (Version 2.1.2);
