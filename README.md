@@ -1,7 +1,7 @@
 # Library Project
 Library Project - Web Api with MongoDB (Net Core 2.1)
 
-[![Build Status](https://github.com/caioaugusto1/LibraryProject-webApi-netCore.git)](https://github.com/caioaugusto1/LibraryProject-webApi-netCore.git)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/caioaugusto1/LibraryProject-webApi-netCore.git)
 
 Dependencies useed 
 - MongoDB.Driver (Version 2.8.0);
