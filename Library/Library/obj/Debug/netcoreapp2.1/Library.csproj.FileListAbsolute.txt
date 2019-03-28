@@ -1,0 +1,14 @@
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\bin\Debug\netcoreapp2.1\Library.runtimeconfig.json
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\bin\Debug\netcoreapp2.1\Library.runtimeconfig.dev.json
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\bin\Debug\netcoreapp2.1\Library.dll
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.RazorAssemblyInfo.cache
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.RazorAssemblyInfo.cs
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.RazorTargetAssemblyInfo.cache
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.dll
+C:\Users\Caio's PC\Documents\Repositories\Library\Library\Library\obj\Debug\netcoreapp2.1\Library.pdb
