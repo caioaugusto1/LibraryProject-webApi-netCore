@@ -5,6 +5,11 @@ namespace Library.Models
 {
     public class Book : EntityBase
     {
+        public Book()
+        {
+            Writer = new Writer();
+        }
+
         [BsonElement("name")]
         public string Name { get; set; }
 
@@ -22,5 +27,10 @@ namespace Library.Models
 
         [BsonElement("date")]
         public DateTime Date { get; set; } = DateTime.Now;
+
+        [BsonElement("writer")]
+        public Writer Writer { get; set; }
+
+        //public virtual Writer Writer { get; set; }
     }
 }
