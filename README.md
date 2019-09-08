@@ -1,5 +1,8 @@
 # Books Project
-Library Project - Web Api with MongoDB (Net Core 2.1)
+Project CRUD to Library control - Books, Custumer.
+
+1 - Customer can have N books 
+1 - Book can have 1 Customer but too could lended to anothers Customer in the past
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/caioaugusto1/LibraryProject-webApi-netCore.git)
 
